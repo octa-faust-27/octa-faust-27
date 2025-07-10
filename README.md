@@ -1,16 +1,15 @@
-## Hi there 👋
+ Hola, mi nombre es Octavio Fausto 👋  
+### Data Analyst & Biomedical Engineer
 
-<!--
-**octa-faust-27/octa-faust-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my [repositorio][id]
 
-Here are some ideas to get you started:
+[id]: [https://github.com/octa-faust-27]("github") 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy ingeniero de biomédico profesional desde 2022. ⚕️ 🥼 👷
+
+Desde 2022 he complementado mi formación en ingeniería biomédica con una transición hacia el análisis de datos, integrando mis conocimientos técnicos con herramientas como Python, SQL y Power BI para resolver problemas reales en entornos de salud y tecnología.💡📊📈ℹ️📐📏 
+
+Durante este proceso, he colaborado en proyectos de investigación y desarrollo, validación de materiales y mejora de procesos dentro de la industria médica, al mismo tiempo he desarrollado soluciones analíticas aplicadas al marketing, el comportamiento del usuario y la optimización de productos. Motivado por el impacto positivo que los datos pueden tener en la calidad de vida busco proyectos donde contribuir al aprendizaje y seguir creciendo en entornos colaborativos e interdisciplinarios. 🏥 🧑‍💻 🔎 🔬
+
+
+ 
