@@ -1,9 +1,7 @@
  Hola, mi nombre es Octavio Fausto 👋  
 ### Data Analyst & Biomedical Engineer
 
-This is my [repositorio][id]
-
-[id]: [https://github.com/octa-faust-27]("github") 
+This is my repository ✨ 
 
 Soy ingeniero de biomédico profesional desde 2022. ⚕️ 🥼 👷
 
